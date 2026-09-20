@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahram Neamati
 
-<!--
-**Shahramneamati/Shahramneamati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and interactive web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Frontend Developer passionate about creating
+modern, responsive and user-friendly web experiences.
+
+I enjoy turning designs into clean, interactive
+and functional websites.
+
+---
+
+## 🚀 What I Build
+
+- 🌐 Responsive Websites
+- ⚡ Interactive Web Interfaces
+- 🎨 Modern UI Designs
+- 📱 Mobile-Friendly Websites
+- ⚛️ React Applications
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/Shahramneamati">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/shahramneamati/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
